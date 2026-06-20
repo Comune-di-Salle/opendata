@@ -25,5 +25,5 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQMIQS_0E4oHzknN3DgO6QMGx_MqTxxX2g-_gIEWYS9J2de64wWDOzswchnF2To4EJy5LMdKX1uI0DA/pub?gid=1865442869&single=true&output=csv'
+          http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR1Yz4BY014lRyM7zEx75_9QZwxQCztKQaiQyIa11-e_t5k71UPiRP5Ujxl5SpMN7p3EX5i6Fj0t-p4/pub?gid=276669619&single=true&output=csv'
           downloaded_filename: datasets/campanefonderiamari/campane.csv
