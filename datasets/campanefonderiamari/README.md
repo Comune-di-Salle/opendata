@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔔 Le Campane di Salle
+# Le Campane di Salle
 
 </div>
 
@@ -17,7 +17,7 @@ Comune di Salle - 2025
 
 ---
 
-## 🏭 I fonditori di campane Mari
+## I fonditori di campane Mari
 
 I fonditori di campane Mari, attivi per secoli in diversi paesi dell’Abruzzo (L’Aquila, Salle, Torre de’ Passeri, Castelfrentano, Lanciano), hanno fornito di campane un territorio che comprende la Romagna (Bertinoro), le Marche (S. Francesco di Urbino 1789, Chiaravalle 1950), l’Umbria (Campanone di Gubbio Angelo Mari e G.B. Donati 1789), il Lazio (Orvinio 1898, Abbazia di Casamari), l’Abruzzo (numerose campane nelle 4 province abruzzesi, tra cui Chiesa di San Berardo a Pescina, L’Aquila, Trasacco, S.Giustino di Chieti, S.Giovanni in Venere, Torre Civica di Lanciano, S.Domenico di Cocullo, ecc…), la Sardegna (Giave SS) e la Sicilia (Carlentini, Borgata Pedagaggi SR).
 
