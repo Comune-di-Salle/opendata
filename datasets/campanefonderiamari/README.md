@@ -21,6 +21,8 @@ Comune di Salle - 2025
 
 I fonditori di campane Mari, attivi per secoli in diversi paesi dell’Abruzzo (L’Aquila, Salle, Torre de’ Passeri, Castelfrentano, Lanciano), hanno fornito di campane un territorio che comprende la Romagna (Bertinoro), le Marche (S. Francesco di Urbino 1789, Chiaravalle 1950), l’Umbria (Campanone di Gubbio Angelo Mari e G.B. Donati 1789), il Lazio (Orvinio 1898, Abbazia di Casamari), l’Abruzzo (numerose campane nelle 4 province abruzzesi, tra cui Chiesa di San Berardo a Pescina, L’Aquila, Trasacco, S.Giustino di Chieti, S.Giovanni in Venere, Torre Civica di Lanciano, S.Domenico di Cocullo, ecc…), la Sardegna (Giave SS) e la Sicilia (Carlentini, Borgata Pedagaggi SR).
 
+La nascita artistica della fonderia Mari viene fatta risalire al 1019 secondo un documento redatto dai Padri Cappuccini di Ortona e secondo una carta campanaria di pelle di pecora. Altre fonti citano il ritrovamento di una campana in Popoli (PE) fusa nel 1200 da Aloysius Mari.
+
 Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la campana della chiesa di San Francesco di Urbino fusa nel 1789 da Giovan Battista Donati e Angelo Mari, il Campanone di Gubbio fuso nello stesso anno da Giovan Battista Donati e Angelo Mari e il campanone della Chiesa di San Berardo (danneggiata dal terremoto)- ora nella Basilica di Santa Maria delle Grazie, fuso nel 1809 da Loreto Mari.
 
 La famiglia Mari e’ di origine aquilana, nel ‘700 si trasferì a Salle, paese noto per la tradizione della produzione di corde armoniche e di fili di sutura.
