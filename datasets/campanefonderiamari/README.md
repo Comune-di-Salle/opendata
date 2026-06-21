@@ -25,9 +25,9 @@
 
 ---
 
-## 🏭 La Fonderia dei Fratelli Mari
+## 🏭 I fonditori di campane Mari
 
-La fonderia di campane dei **Fratelli Mari**, attiva per secoli in diversi paesi dell’Abruzzo (*L’Aquila, Salle, Torre de’ Passeri, Castelfrentano e Lanciano*), ha fornito di campane un territorio che comprende:
+I fonditori di campane Mari **Mari**, attivi per secoli in diversi paesi dell’Abruzzo (*L’Aquila, Salle, Torre de’ Passeri, Castelfrentano e Lanciano*), hanno fornito di campane un territorio che comprende:
 
 - **Romagna** (*Bertinoro*)
 - **Marche** (*Chiesa di San Francesco di Urbino, 1789; Chiaravalle, 1950*)
