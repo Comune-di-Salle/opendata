@@ -18,37 +18,38 @@
 >
 > Le campane di Salle portavano con sé l’eco della nostra terra, la voce dei suoi artigiani, il calore della fiamma e la precisione del gesto.
 
----
-
 <p align="right">
 <em>Relazione sull’Intitolazione delle Piazzette a Pastori, Cordari e Campanari di Salle</em><br>
 <strong>Comune di Salle, 2025</strong>
 </p>
 
+---
 
 ## 🏭 La Fonderia dei Fratelli Mari
 
 La fonderia di campane dei **Fratelli Mari**, attiva per secoli in diversi paesi dell’Abruzzo (*L’Aquila, Salle, Torre de’ Passeri, Castelfrentano e Lanciano*), ha fornito di campane un territorio che comprende:
 
 - **Romagna** (*Bertinoro*)
-- **Marche** (*San Francesco di Urbino, 1789; Chiaravalle, 1950*)
-- **Umbria** (*Campanone di Gubbio, Angelo Mari e G.B. Donati, 1789*)
+- **Marche** (*Chiesa di San Francesco di Urbino, 1789; Chiaravalle, 1950*)
+- **Umbria** (*Campanone di Gubbio, 1789*)
 - **Lazio** (*Orvinio, 1898; Abbazia di Casamari*)
 - **Abruzzo** (*numerose campane nelle quattro province, tra cui L’Aquila, Trasacco, San Giustino di Chieti, San Giovanni in Venere, Torre Civica di Lanciano e San Domenico di Cocullo*)
-- **Sardegna** (*Giave, SS*)
-- **Sicilia** (*Carlentini e Borgata Pedagaggi, SR*)
+- **Sardegna** (*Giave, Sassari*)
+- **Sicilia** (*Carlentini e Borgata Pedagaggi, Siracusa*)
+
+### 🔔 Campane Storiche
 
 Tra le campane più antiche oggi esistenti e ancora funzionanti si annoverano:
 
-- 🔔 La campana della **Chiesa di San Francesco di Urbino**, fusa nel **1789** da **Giovan Battista Donati** e **Angelo Mari**.
-- 🔔 Il **Campanone di Gubbio**, fuso nello stesso anno dagli stessi maestri fonditori.
+- La campana della **Chiesa di San Francesco di Urbino**, fusa nel **1789** da **Giovan Battista Donati** e **Angelo Mari**.
+- Il **Campanone di Gubbio**, fuso nello stesso anno da **Giovan Battista Donati** e **Angelo Mari**.
 
-### 📜 Le origini della famiglia Mari
+### 📜 Le Origini della Famiglia Mari
 
 La famiglia **Mari** è di origine aquilana. Nel XVIII secolo si trasferì a **Salle**, paese noto per la tradizione della produzione di **corde armoniche** e **fili di sutura**.
 
 Da qui si sviluppò una delle più importanti attività campanarie dell'Italia centrale, capace di diffondere il suono delle proprie campane ben oltre i confini dell'Abruzzo.
 
-<img width="499" height="205" alt="image" src="https://github.com/user-attachments/assets/6b12d980-aa55-4c2a-b8de-ab6f124bd81d" />
+---
 
-
+> *Ogni campana fusa a Salle portava con sé non solo il suono del bronzo, ma anche la storia, l’arte e l’identità di una comunità che ha fatto della tradizione campanaria uno dei propri simboli più autentici.*
