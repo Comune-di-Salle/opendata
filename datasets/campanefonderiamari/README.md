@@ -26,9 +26,28 @@
 </p>
 
 
-La fonderia di campane dei Fratelli Mari, attiva per secoli in diversi paesi dell’Abruzzo (L’Aquila,Salle, Torre de’ Passeri, Castelfrentano, Lanciano), ha fornito di campane un territorio che comprende la Romagna (Bertinoro), le Marche (S. Francesco di Urbino 1789, Chiaravalle 1950), l’Umbria (Campanone di Gubbio Angelo Mari e G.B. Donati 1789), il Lazio (Orvinio 1898, Abbazia di Casamari), l’Abruzzo (numerose campane nelle 4 province abruzzesi, tra cui L’Aquila, Trasacco, S.Giustino di Chieti, S.Giovanni in Venere, Torre Civica di Lanciano, S.Domenico di Cocullo, ecc…), la Sardegna (Giave SS) e la Sicilia (Carlentini, Borgata Pedagaggi SR).
-Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la campana della chiesa di San Francesco di Urbino fusa nel 1789 da Giovan Battista Donati e Angelo Mari ed il Campanone di Gubbio fuso nello stesso anno da Giovan Battista Donati e Angelo Mari.
-La famiglia Mari e’ di origine aquilana, nel ‘700 si era poi spostata a Salle, paese noto per la tradizione della produzione di corde armoniche e di fili di sutura.
+## 🏭 La Fonderia dei Fratelli Mari
+
+La fonderia di campane dei **Fratelli Mari**, attiva per secoli in diversi paesi dell’Abruzzo (*L’Aquila, Salle, Torre de’ Passeri, Castelfrentano e Lanciano*), ha fornito di campane un territorio che comprende:
+
+- **Romagna** (*Bertinoro*)
+- **Marche** (*San Francesco di Urbino, 1789; Chiaravalle, 1950*)
+- **Umbria** (*Campanone di Gubbio, Angelo Mari e G.B. Donati, 1789*)
+- **Lazio** (*Orvinio, 1898; Abbazia di Casamari*)
+- **Abruzzo** (*numerose campane nelle quattro province, tra cui L’Aquila, Trasacco, San Giustino di Chieti, San Giovanni in Venere, Torre Civica di Lanciano e San Domenico di Cocullo*)
+- **Sardegna** (*Giave, SS*)
+- **Sicilia** (*Carlentini e Borgata Pedagaggi, SR*)
+
+Tra le campane più antiche oggi esistenti e ancora funzionanti si annoverano:
+
+- 🔔 La campana della **Chiesa di San Francesco di Urbino**, fusa nel **1789** da **Giovan Battista Donati** e **Angelo Mari**.
+- 🔔 Il **Campanone di Gubbio**, fuso nello stesso anno dagli stessi maestri fonditori.
+
+### 📜 Le origini della famiglia Mari
+
+La famiglia **Mari** è di origine aquilana. Nel XVIII secolo si trasferì a **Salle**, paese noto per la tradizione della produzione di **corde armoniche** e **fili di sutura**.
+
+Da qui si sviluppò una delle più importanti attività campanarie dell'Italia centrale, capace di diffondere il suono delle proprie campane ben oltre i confini dell'Abruzzo.
 
 <img width="499" height="205" alt="image" src="https://github.com/user-attachments/assets/6b12d980-aa55-4c2a-b8de-ab6f124bd81d" />
 
