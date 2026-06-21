@@ -11,7 +11,7 @@
 > A Salle, tuttavia, la tradizione campanaria non si limitava all’uso delle campane: fino a dopo la Prima Guerra Mondiale, nel paese era attiva una prestigiosa fonderia di campane, gestita dalla famiglia Mari. In questo luogo si fondevano bronzi destinati a risuonare nelle chiese di tutta Italia e oltre. Le campane di Salle portavano con sé l’eco della nostra terra, la voce dei suoi artigiani, il calore della fiamma e la precisione del gesto.
 
 <p align="right">
-<em>Relazione sull’Intitolazione delle Piazzette a Pastori, Cordari e Campanari di Salle</em><br>
+<em>tratto da: Relazione sull’Intitolazione delle Piazzette a Pastori, Cordari e Campanari di Salle</em><br>
 Comune di Salle - 2025
 </p>
 
