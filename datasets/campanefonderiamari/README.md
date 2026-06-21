@@ -24,3 +24,12 @@
 <em>Relazione sull’Intitolazione delle Piazzette a Pastori, Cordari e Campanari di Salle</em><br>
 <strong>Comune di Salle, 2025</strong>
 </p>
+
+
+La fonderia di campane dei Fratelli Mari, attiva per secoli in diversi paesi dell’Abruzzo (L’Aquila,Salle, Torre de’ Passeri, Castelfrentano, Lanciano), ha fornito di campane un territorio che comprende la Romagna (Bertinoro), le Marche (S. Francesco di Urbino 1789, Chiaravalle 1950), l’Umbria (Campanone di Gubbio Angelo Mari e G.B. Donati 1789), il Lazio (Orvinio 1898, Abbazia di Casamari), l’Abruzzo (numerose campane nelle 4 province abruzzesi, tra cui L’Aquila, Trasacco, S.Giustino di Chieti, S.Giovanni in Venere, Torre Civica di Lanciano, S.Domenico di Cocullo, ecc…), la Sardegna (Giave SS) e la Sicilia (Carlentini, Borgata Pedagaggi SR).
+Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la campana della chiesa di San Francesco di Urbino fusa nel 1789 da Giovan Battista Donati e Angelo Mari ed il Campanone di Gubbio fuso nello stesso anno da Giovan Battista Donati e Angelo Mari.
+La famiglia Mari e’ di origine aquilana, nel ‘700 si era poi spostata a Salle, paese noto per la tradizione della produzione di corde armoniche e di fili di sutura.
+
+<img width="499" height="205" alt="image" src="https://github.com/user-attachments/assets/6b12d980-aa55-4c2a-b8de-ab6f124bd81d" />
+
+
