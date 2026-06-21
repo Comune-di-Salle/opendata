@@ -23,6 +23,6 @@ I fonditori di campane Mari, attivi per secoli in diversi paesi dell’Abruzzo (
 
 La nascita artistica della fonderia Mari viene fatta risalire al 1019 secondo un documento redatto dai Padri Cappuccini di Ortona e secondo una carta campanaria di pelle di pecora. Altre fonti citano il ritrovamento di una campana in Popoli (PE) fusa nel 1200 da Aloysius Mari.
 
-Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la campana della chiesa di San Francesco di Urbino fusa nel 1789 da Giovan Battista Donati e Angelo Mari, il Campanone di Gubbio fuso nello stesso anno da Giovan Battista Donati e Angelo Mari e il campanone della Chiesa di San Berardo (danneggiata dal terremoto)- ora nella Basilica di Santa Maria delle Grazie, fuso nel 1809 da Loreto Mari.
+Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la campana della chiesa di San Francesco di Urbino fusa nel 1789 da Giovan Battista Donati e Angelo Mari, il Campanone di Gubbio fuso nello stesso anno da Giovan Battista Donati e Angelo Mari e il campanone della Chiesa di San Berardo (danneggiata dal terremoto)- ora nella Basilica di Santa Maria delle Grazie, fuso nel 1806 da Loreto Mari.
 
 La famiglia Mari e’ di origine aquilana, nel ‘700 si trasferì a Salle, paese noto per la tradizione della produzione di corde armoniche e di fili di sutura.
