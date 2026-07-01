@@ -28,5 +28,5 @@ Tra le campane piu’ antiche oggi esistenti e funzionanti si annoverano la camp
 La famiglia Mari e’ di origine aquilana, nel ‘700 si trasferì a Salle, paese noto per la tradizione della produzione di corde armoniche e di fili di sutura.
 
 ## Il dataset delle campane Mari
-Attualmente, il dataset comprende le campane fuse dai fonditori Mari nel periodo in cui la fonderia era a Salle vecchio. Successivamente sarà arricchito con le campane fuse dalle fonderie di Castelfrentano e Torre dè Passeri, dove i Mari di Salle trasferirono la loro attività a seguito del progressivo susseguirsi di terremoti e fenomeni franosi, tra fine '800 e inizio '900, che compromise irreversibilmente l'abitato.
+Attualmente, il dataset comprende le campane fuse dai fonditori Mari nel periodo in cui la fonderia era a Salle vecchio. L'elenco è in costante aggiornamento via via che vengono censite ulteriori chiese ed arricchito con le campane fuse dalle fonderie di Castelfrentano e Torre dè Passeri, dove i Mari di Salle trasferirono la loro attività a seguito del progressivo susseguirsi di terremoti e fenomeni franosi, tra fine '800 e inizio '900, che compromise irreversibilmente l'abitato.
 
